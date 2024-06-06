@@ -1,0 +1,23 @@
+body{
+  font-family: "Sedan SC", serif;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, span, button, textarea{
+  word-break: break-word;
+}
+
+.limiter{
+  padding: 0 15px;
+}
+
+@include media-breakpoint-up(md){
+  .limiter{
+    padding: 0 40px;
+  }
+}
+
+@include media-breakpoint-up(lg){
+  .limiter{
+    padding: 0 90px;
+  }
+}
