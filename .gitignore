@@ -1,3 +1,4 @@
 node_modules/
 #public/themes/*/css/
 css/
+.DS_Store
