@@ -1,13 +1,4 @@
 /**
- * Bootstrap.
- */
-
-@import "../node_modules/bootstrap/scss/functions";
-@import "variables_override";
-@import "variables";
-@import "../node_modules/bootstrap/scss/bootstrap";
-
-/**
  * Fonts
  */
 
@@ -17,3 +8,5 @@
 /**
  * Custom-styles.
  */
+
+ @import "custom";
