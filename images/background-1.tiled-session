@@ -1,0 +1,79 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "scenes/01-house-red/p1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Cuadro-Rojo.tsx": {
+            "scaleInDock": 1
+        },
+        "azul.tsx": {
+            "scaleInDock": 1
+        },
+        "scene-1.tsx": {
+            "scaleInDock": 1.2717,
+            "scaleInEditor": 1
+        },
+        "scene.tmx": {
+            "scale": 0.84609375,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 544.2659279778393,
+                "y": 319.11357340720224
+            }
+        },
+        "scenes/01-house-red/p1.tmx": {
+            "scale": 0.7906770833333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 481.2331203478032,
+                "y": 318.714182201436
+            }
+        },
+        "scenes/01-house-red/p1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "scenes/scene.tmx": {
+            "expandedGroupLayers": [
+                13
+            ],
+            "scale": 1.3363,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 534.6853251515378,
+                "y": 390.6308463668338
+            }
+        },
+        "utilities/azul.tsx": {
+            "scaleInEditor": 1
+        },
+        "verde.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/niz_pena/Sites/personal/cooperative/pokemon2/images/scenes/01-house-red",
+    "last.externalTilesetPath": "/Users/niz_pena/Sites/personal/cooperative/pokemon2/images/utilities",
+    "last.imagePath": "/Users/niz_pena/Sites/personal/cooperative/pokemon2/images/graphics/Tilesets",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "scenes/01-house-red/p1.tsx",
+        "scenes/01-house-red/p1.tmx"
+    ],
+    "project": "background-1.tiled-project",
+    "recentFiles": [
+        "utilities/azul.tsx",
+        "scenes/01-house-red/p1.tsx",
+        "scenes/01-house-red/p1.tmx",
+        "scenes/scene.tmx",
+        "scene.tmx",
+        "scene-1.tsx"
+    ],
+    "tileset.lastUsedFilter": "Archivos de conjuntos de patrones Tiled (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx"
+}
